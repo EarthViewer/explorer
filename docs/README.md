@@ -1,13 +1,11 @@
-![Emxsys](images/world.png)
-
-# [Earth Viewer - Explorer](https://earthviewer.github.io/explorer/) 
+# ![Emxsys](images/world.png) [Earth Viewer - Explorer](https://earthviewer.github.io/explorer/) 
 
 [![Build Status](https://travis-ci.org/earthviewer/explorer.svg?branch=master)](https://travis-ci.org/earthviewer/explorer)
 
 The __Earth Viewer - Explorer__ is a 3D globe geo-browser web application built with the 
-[Web WorldWind](https://github.com/NASAWorldWind/WebWorldWind) 3D globe library and  
-[React](https://reactjs.org) and [Bootstrap](https://getbootstrap.com). 
-Web WorldWind is an open-source virtual globe SDK developed jointly by 
+[Web WorldWind](https://github.com/NASAWorldWind/WebWorldWind) 3D globe library and the 
+[React](https://reactjs.org) framework and [Bootstrap](https://getbootstrap.com) library. 
+__Web WorldWind__ is an open-source virtual globe SDK developed jointly by 
 [NASA and ESA](https://worldwind.arc.nasa.gov/web/). 
 
 This project provides a feature-rich, responsive, customizable web app ready to be deployed to your 
@@ -21,9 +19,9 @@ site, including:
 - Multi-globe support
 - Plus, automatic deployment to GitHub Pages
 
-This project was initially cloned from the [worldwind-react-app](https://github.com/emxsys/worldwind-react-app) project.
+The __Explorer__ was cloned from the [worldwind-react-app](https://github.com/emxsys/worldwind-react-app) project.
 
-Below you will find some information on how to perform common tasks.<br>
+Below you will find some information on how to perform common tasks.
 
 ## Setup
 
