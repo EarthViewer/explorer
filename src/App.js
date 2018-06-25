@@ -76,8 +76,8 @@ export default class App extends Component {
       <div>
         <NavBar 
             logo='images/world.png'
-            title='Earth Viewer'
-            href='https://github.com/earthviewer/'
+            title='Explorer'
+            href='https://viewer.earth'
             items={navbarItems}
             search={navbarSearch} />
         <Container fluid className='p-0'>
