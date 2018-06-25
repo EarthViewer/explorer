@@ -2,7 +2,7 @@
   "name": "earth-viewer",
   "version": "0.3.0",
   "private": true,
-  "homepage": "https://EarthViewer.github.io/Explorer",
+  "homepage": "https://earthViewer.github.io/explorer",
   "dependencies": {
     "ajv": "^6.5.0",
     "bootstrap": "^4.1.1",
