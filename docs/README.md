@@ -1,6 +1,6 @@
 # ![Emxsys](images/world.png) [Earth Viewer - Explorer](https://viewer.earth/explorer/) 
 
-[![Build Status](https://travis-ci.org/EarthViewer/Explorer.svg?branch=master)](https://travis-ci.org/EarthViewer/Explorer)
+[![Build Status](https://travis-ci.org/EarthViewer/explorer.svg?branch=master)](https://travis-ci.org/EarthViewer/explorer)
 
 The __Earth Viewer - Explorer__ is a 3D globe geo-browser web application built with the 
 [Web WorldWind](https://github.com/NASAWorldWind/WebWorldWind) 3D globe library and the 
